@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.212.71.229:9980/mithuntechnologies/repository/canarabank-snapshot/</url>
+	      <name>yesbank Releases Nexus Repository</name>
+	      <url>http://13.127.164.198:9980/priyankadevops/repository/yesbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.212.71.229:9980/mithuntechnologies/repository/canarabank-release/</url>
+	      <name>yesbank Snapshot Nexus Repository </name>
+	      <url>http://13.127.164.198:9980/priyankadevops/repository/yesbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
